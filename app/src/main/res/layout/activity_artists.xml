@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LinearLayoutStyle"
+    tools:context="cloud.aakashsharan.musicalapp.ArtistsActivity">
+
+    <Button
+        android:id="@+id/albums"
+        style="@style/ButtonStyle"
+        android:text="@string/albums"/>
+
+</LinearLayout>

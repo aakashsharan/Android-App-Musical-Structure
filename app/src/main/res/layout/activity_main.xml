@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background"
+    android:orientation="vertical"
+    tools:context="cloud.aakashsharan.musicalapp.MainActivity">
+
+    <TextView
+        android:id="@+id/recently_played"
+        style="@style/CategoryStyle"
+        android:background="@color/recently_background"
+        android:text="@string/recently_played"/>
+
+    <TextView
+        android:id="@+id/artists"
+        style="@style/CategoryStyle"
+        android:background="@color/artists_background"
+        android:text="@string/artists"/>
+
+    <TextView
+        android:id="@+id/albums"
+        style="@style/CategoryStyle"
+        android:background="@color/albums_background"
+        android:text="@string/albums"/>
+
+    <TextView
+        android:id="@+id/songs"
+        style="@style/CategoryStyle"
+        android:background="@color/songs_background"
+        android:text="@string/songs"/>
+
+    <TextView
+        android:id="@+id/playlist"
+        style="@style/CategoryStyle"
+        android:background="@color/playlist_background"
+        android:text="@string/playlist"/>
+
+    <TextView
+        android:id="@+id/payment_activity"
+        style="@style/CategoryStyle"
+        android:background="@color/payment_background"
+        android:text="@string/payment_activity"/>
+
+</LinearLayout>

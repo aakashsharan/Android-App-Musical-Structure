@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="app_background">#FFF7DA</color>
+    <color name="recently_background">#C2185B</color>
+    <color name="artists_background">#FFD740</color>
+    <color name="albums_background">#4CAF50</color>
+    <color name="songs_background">#039BE5</color>
+    <color name="playlist_background">#78909C</color>
+    <color name="payment_background">#E53935</color>
+</resources>

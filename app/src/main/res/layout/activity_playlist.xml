@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LinearLayoutStyle"
+    tools:context="cloud.aakashsharan.musicalapp.PlaylistActivity">
+
+    <Button
+        android:id="@+id/payment_activity"
+        style="@style/ButtonStyle"
+        android:text="@string/payment_activity"/>
+
+</LinearLayout>
