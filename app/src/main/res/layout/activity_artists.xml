@@ -3,11 +3,21 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     style="@style/LinearLayoutStyle"
+    android:orientation="vertical"
     tools:context="cloud.aakashsharan.musicalapp.ArtistsActivity">
 
     <Button
         android:id="@+id/albums"
         style="@style/ButtonStyle"
         android:text="@string/albums"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/artists_text"
+        android:background="@color/artists_background"
+        android:textSize="20sp"
+        android:layout_margin="4dp"
+        android:padding="4dp"/>
 
 </LinearLayout>

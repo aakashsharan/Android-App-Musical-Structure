@@ -11,4 +11,11 @@
     <string name="payment_api">Integrate Payment Gateway \n Inside Manifest File add the android permission \n Create a new empty activity and add a service tag. \n Inside the service tag
                                 get the PayPal SDK and required classes. \n Configure the PayPal app in MainActivity</string>
 
+    <string name="recently_played_text">This activity contains the list of songs recently played by the user.</string>
+    <string name="artists_text">This activity contains the list of artists.</string>
+    <string name="albums_text">This activity contains the albums of each artists.</string>
+    <string name="songs_text">This activity contains songs played by the user.</string>
+    <string name="playlist_text">This activity contains the list of playlists created by the user.</string>
+    <string name="payment_activity_text">This activity contains the procedure that lets user pay through 3rd party applications.</string>
+
 </resources>

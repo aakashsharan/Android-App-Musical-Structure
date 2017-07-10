@@ -10,4 +10,13 @@
         style="@style/ButtonStyle"
         android:text="@string/payment_activity"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist_text"
+        android:background="@color/playlist_background"
+        android:textSize="20sp"
+        android:layout_margin="4dp"
+        android:padding="4dp"/>
+
 </LinearLayout>
